@@ -53,7 +53,7 @@ Retorne o seguinte conteúdo:
 
 `O usuário mora em São Paulo / SP, no bairro Centro, na rua "Rua dos Pinheiros" com nº 1293.`
 
-:two:** exercício** :pencil:
+#### 02 Exercício :pencil:
 
 Crie uma função que dado um intervalo (entre x e y) exiba todos número pares:
 
@@ -76,10 +76,9 @@ function temHabilidade(skills) {
 var skills = ["Javascript", "ReactJS", "React Native"];
 temHabilidade(skills); // true ou false
 ```
-
 _Dica: para verificar se um vetor contém um valor, utilize o método indexOf._
 
-:four:** exercício** :pencil:
+#### 04 Exercício :pencil:
 
 Escreva uma função que dado um total de anos de estudo retorna o quão experiente o usuário é:
 
