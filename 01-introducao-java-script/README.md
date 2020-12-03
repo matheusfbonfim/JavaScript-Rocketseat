@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img alt="Starter" title="Javascript Starter"src=".github/logo.svg" width="200px"/>
+    <img alt="Starter" title="Javascript Starter"src=".github/logo.svg" width="200px" />
 </h1>
 
-<h3 align="center">
-  JS Rocketseat - Exercícios e Desafios
-</h3>
+<h2 align="center">
+  JS Rocketseat - Exercícios e Desafios 🚀
+</h2>
 
 ## Módulo 01 - Introdução JavaScript :point_up:
 
