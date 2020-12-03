@@ -157,7 +157,7 @@ Preencha uma lista ```<ul>``` no HTML com os itens da seguinte forma:
 ● Gabriel
 ● Lucas
 
-:four:** exercício** :pencil:
+#### 04 Exercício :pencil:
 
 Seguindo o resultado do exercício anterior adicione um input em tela e um botão como a seguir:
 
