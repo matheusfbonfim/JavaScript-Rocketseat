@@ -34,12 +34,10 @@
 
 ## Índice dos módulos
 
-- [### Módulo 01 - Introdução JavaScript](https://github.com/matheusfbonfim/bootcamp-gostack11-exercicios/tree/master/nivel-1/backend-node) 🚀 Done :heavy_check_mark:
-- [### Módulo 02 - Manipulando a DOM]() :construction: In progress.. :construction:
-- [### Módulo 03 - App de ToDos]()
-- [### Módulo 04 - JS Assíncrono ]()
-
- :point_up:
+- ### [ Módulo 01 - Introdução JavaScript](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/01-introducao-java-script) 🚀 Done :heavy_check_mark:
+- ### [ Módulo 02 - Manipulando a DOM]() 🚀 Done :heavy_check_mark: 
+- ###  [ Módulo 03 - App de ToDos]() :construction: In progress.. :construction:
+- ### [Módulo 04 - JS Assíncrono]()
 
 ## :memo: License
 
