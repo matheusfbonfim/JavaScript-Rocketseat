@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Starter" title="Javascript Starter"src=".github/logo.svg" width="200px" />
+    <img alt="Starter" title="Javascript Starter"src="https://github.com/matheusfbonfim/JavaScript-Rocketseat/blob/master/.github/logo.svg" width="200px" />
 </h1>
 
 <h2 align="center">
