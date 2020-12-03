@@ -6,29 +6,29 @@
   JS Rocketseat - Exercícios e Desafios
 </h3>
 
-<p align="center">This project is just the final exercises of each Rocketseat Javascript course module <a href="https://skylab.rocketseat.com.br/journey/starter">JavaScript Starter</a> 🎓
+<p align="center">Este projeto armazena os exercícios finais/desafios de cada módulo do curso Rocketseat Javascript<a href="https://skylab.rocketseat.com.br/journey/starter">JavaScript Starter</a> 🎓
 </p>
 
 
 <p align="center">
   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/danielobara/Javascript-Rocketseat?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheusfbonfim/JavaScript-Rocketseat?color=%2304D361">
 
-  <a href="https://www.linkedin.com/in/danielobara/">
-    <img alt="Made by DanielObara" src="https://img.shields.io/badge/made%20by-DanielObara-%2304D361">
+  <a href="https://www.linkedin.com/in/matheus-bonfim-448667169/">
+    <img alt="Made by " src="https://img.shields.io/badge/made%20by-matheusfbonfim-%2304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
   
   <a>
-    <img alt="Repository size" src="https://img.shields.io/github/repo-size/danielobara/Javascript-Rocketseat.svg">
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/matheusfbonfim/JavaScript-Rocketseat.svg">
   </a>
   
-  <a href="https://github.com/danielobara/Javascript-Rocketseat/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danielobara/Javascript-Rocketseat.svg">
+  <a href="https://github.com/matheusfbonfim/JavaScript-Rocketseat/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheusfbonfim/JavaScript-Rocketseat.svg">
   </a>
-   <a href="https://github.com/DanielObara/Javascript-Rocketseat/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/danielobara/Javascript-Rocketseat?style=social">
+   <a href="https://github.com/matheusfbonfim/JavaScript-Rocketseat/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/matheusfbonfim/JavaScript-Rocketseat?style=social">
   </a>
 </p>
 
