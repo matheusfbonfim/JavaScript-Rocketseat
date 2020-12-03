@@ -6,7 +6,7 @@
   JS Rocketseat - Exercícios e Desafios
 </h3>
 
-<p align="center">Este projeto armazena os exercícios finais/desafios de cada módulo do curso Rocketseat Javascript<a href="https://skylab.rocketseat.com.br/journey/starter"> (JavaScript Starter)</a> 🎓
+<p align="center">Este projeto armazena os exercícios finais/desafios de cada módulo do curso de Javascript da Rocketseat <a href="https://skylab.rocketseat.com.br/journey/starter"> (JavaScript Starter)</a> 🎓
 </p>
 
 
@@ -112,7 +112,8 @@ habilidades: ["VueJS", "Ruby on Rails", "Elixir"]
 
 Escreva uma função que produza o seguinte resultado:
 
-`O Diego possui as habilidades: Javascript, ReactJS, Redux O Gabriel possui as habilidades: VueJS, Ruby on Rails, Elixir`
+`O Diego possui as habilidades: Javascript, ReactJS, Redux 
+ O Gabriel possui as habilidades: VueJS, Ruby on Rails, Elixir`
 
 _Dica: Para percorrer um vetor você deve utilizar a sintaxe for...of e para unir valores de um array
 com um separador utilize o join._
