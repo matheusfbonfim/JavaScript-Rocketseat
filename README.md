@@ -33,9 +33,9 @@
 </p>
 
 
-### Exercícios Módulo 01 - Introdução JavaScript :point_up:
+### Módulo 01 - Introdução JavaScript :point_up:
 
-:one:** exercício** :pencil:
+#### 01 Exercício :pencil:
 
 Crie uma função que dado o objeto a seguir:
 
