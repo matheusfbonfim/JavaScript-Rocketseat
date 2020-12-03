@@ -1,14 +1,14 @@
 <h1 align="center">
-    <img alt="Starter" title="Javascript Starter"src=".github/logo.svg" width="200px" />
+    <img alt="Starter" title="Javascript Starter"src=".github/logo.svg" width="200px"/>
 </h1>
 
 <h3 align="center">
   JS Rocketseat - Exercícios e Desafios
 </h3>
 
-### Módulo 01 - Introdução JavaScript :point_up:
+## Módulo 01 - Introdução JavaScript :point_up:
 
-#### 01 Exercício :pencil:
+### 01 Exercício :pencil:
 
 Crie uma função que dado o objeto a seguir:
 
@@ -26,7 +26,7 @@ Retorne o seguinte conteúdo:
 
 `O usuário mora em São Paulo / SP, no bairro Centro, na rua "Rua dos Pinheiros" com nº 1293.`
 
-#### 02 Exercício :pencil:
+### 02 Exercício :pencil:
 
 Crie uma função que dado um intervalo (entre x e y) exiba todos número pares:
 
@@ -37,7 +37,7 @@ function pares(x, y) {
 pares(32, 321);
 ```
 
-#### 03 Exercício :pencil:
+### 03 Exercício :pencil:
 
 Escreva uma função que verifique se o vetor de habilidades passado possui a habilidade "Javascript"
 e retorna um booleano true/false caso exista ou não.
@@ -51,7 +51,7 @@ temHabilidade(skills); // true ou false
 ```
 _Dica: para verificar se um vetor contém um valor, utilize o método indexOf._
 
-#### 04 Exercício :pencil:
+### 04 Exercício :pencil:
 
 Escreva uma função que dado um total de anos de estudo retorna o quão experiente o usuário é:
 
@@ -67,7 +67,7 @@ experiencia(anosEstudo);
 // De 7 acima: Jedi Master
 ```
 
-#### 05 Exercício :pencil:
+### 05 Exercício :pencil:
 
 Dado o seguinte vetor de objetos:
 
