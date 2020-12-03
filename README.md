@@ -6,7 +6,7 @@
   JS Rocketseat - Exercícios e Desafios
 </h3>
 
-<p align="center">Este projeto armazena os exercícios finais/desafios de cada módulo do curso Rocketseat Javascript<a href="https://skylab.rocketseat.com.br/journey/starter">JavaScript Starter</a> 🎓
+<p align="center">Este projeto armazena os exercícios finais/desafios de cada módulo do curso Rocketseat Javascript<a href="https://skylab.rocketseat.com.br/journey/starter"> (JavaScript Starter)</a> 🎓
 </p>
 
 
@@ -234,15 +234,18 @@ da lista apenas enquanto a requisição estiver acontecendo:
 Além disso, adicione uma mensagem de erro em tela caso o usuário no Github não exista.
 Dica: Quando o usuário não existe, a requisição irá cair no .catch com código de erro 404.
 
-## 🤔 Como contribuir
+## :memo: License
 
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
+O projeto está sobre a licença [MIT](./LICENSE) ❤️ 
 
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+Gostou? Deixe uma estrelinha para ajudar o projeto ⭐
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+<!-- Mensagem final -->
+<h3 align="center">
+Feito com ❤️ por <a href="https://www.linkedin.com/in/matheus-bonfim-448667169/">Matheus Bonfim</a>
+<br><br>
+<a href="https://rocketseat.com.br">
+  <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
+</a>
+</h3>
+</h3>
