@@ -32,7 +32,6 @@
   </a>
 </p>
 
-
 ### Módulo 01 - Introdução JavaScript :point_up:
 
 #### 01 Exercício :pencil:
@@ -94,7 +93,7 @@ experiencia(anosEstudo);
 // De 7 acima: Jedi Master
 ```
 
-:five:** exercício** :pencil:
+#### 05 Exercício :pencil:
 
 Dado o seguinte vetor de objetos:
 
@@ -118,15 +117,15 @@ Escreva uma função que produza o seguinte resultado:
 _Dica: Para percorrer um vetor você deve utilizar a sintaxe for...of e para unir valores de um array
 com um separador utilize o join._
 
-### **Exercícios Módulo 02** - Manipulando a DOM :v:
+### Módulo 02 - Manipulando a DOM :point_up:
 
-:one:** exercício** :pencil:
+#### 01 Exercício :pencil:
 
 Crie um botão que ao ser clicado cria um novo elemento em tela com a forma de um quadrado
 vermelho com 100px de altura e largura. Sempre que o botão for clicado um novo quadrado deve
 aparecer na tela.
 
-:two:** exercício** :pencil:
+#### 02 Exercício :pencil:
 
 Utilizando o resultado do primeiro desafio, toda vez que o usuário passar o mouse por cima de
 algum quadrado troque sua cor para uma cor aleatória gerada pela função abaixo:
@@ -143,7 +142,7 @@ function getRandomColor() {
 var newColor = getRandomColor(); // #E943F0
 ```
 
-:three:** exercício** :pencil:
+#### 03 Exercício :pencil:
 
 A partir do seguinte vetor:
 
