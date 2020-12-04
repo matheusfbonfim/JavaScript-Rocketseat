@@ -52,9 +52,6 @@ Feito com ❤️ por <a href="https://www.linkedin.com/in/matheus-bonfim-4486671
 <a href="https://rocketseat.com.br">
   <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
 
-<a href="https://github.com/DanielObara/Javascript-Rocketseat">
-  <img alt="Made by DanielObara" src="https://img.shields.io/badge/made%20by-DanielObara-%237519C1">
-
 </a>
 </h3>
 </h3>
