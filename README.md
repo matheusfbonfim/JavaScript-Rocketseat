@@ -36,8 +36,8 @@
 
 - ### [ Módulo 01 - Introdução JavaScript](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/01-introducao-java-script) 🚀 Done :heavy_check_mark:
 - ### [ Módulo 02 - Manipulando a DOM](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/02-manipulando-DOM) 🚀 Done :heavy_check_mark: 
-- ###  [ Módulo 03 - App de ToDos](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/03-app-de-Todos) :construction: In progress.. :construction:
-- ### [Módulo 04 - JS Assíncrono](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/04-JS-assincrono)
+- ###  [ Módulo 03 - App de ToDos](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/03-app-de-Todos) 🚀 Done :heavy_check_mark:
+- ### [Módulo 04 - JS Assíncrono](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/04-JS-assincrono) :construction: In progress.. :construction:
 
 ## :memo: License
 
