@@ -2,9 +2,9 @@
     <img alt="Starter" title="Javascript Starter"src=".github/Logo_extended.jpeg" width="400px" />
 </h1>
 
-<h3 align="center">
+<h2 align="center">
   JS Rocketseat - Exercícios e Desafios
-</h3>
+</h2>
 
 <p align="center">Este projeto armazena os exercícios finais/desafios de cada módulo do curso de Javascript da Rocketseat <a href="https://skylab.rocketseat.com.br/journey/starter"> (JavaScript Starter)</a> 🎓
 </p>
@@ -37,7 +37,7 @@
 - ### [ Módulo 01 - Introdução JavaScript](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/01-introducao-java-script) 🚀 Done :heavy_check_mark:
 - ### [ Módulo 02 - Manipulando a DOM](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/02-manipulando-DOM) 🚀 Done :heavy_check_mark: 
 - ###  [ Módulo 03 - App de ToDos](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/03-app-de-Todos) 🚀 Done :heavy_check_mark:
-- ### [Módulo 04 - JS Assíncrono](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/04-JS-assincrono) :construction: In progress.. :construction:
+- ### [Módulo 04 - JS Assíncrono](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/04-JS-assincrono) 🚀 Done
 
 ## :memo: License
 
